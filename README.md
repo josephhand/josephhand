@@ -4,6 +4,7 @@ My name is Joseph Hand. I am a physics and astronomy undergraduate at the Univer
 
 - 🔭 Astronomy researcher
 - 🐧 Linux ~~evangelist~~ enthusiast
+- 📃 LaTeX lover
 - 📝 Neovim user
 - 🖥️ Amateur system administrator
 - ⌨️ Learning Dvorak
